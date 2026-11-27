@@ -8,9 +8,9 @@ Every member writes code. Roles say who leads an area, not who does all of it.
 
 | Name | GitHub | Role(s) | Strength we can rely on | Something I want to learn |
 |---|---|---|---|---|
-| Osama Bin Mansur | @obmZZ | Team lead / Scrum master | | |
-| Md. Saimon Islam | @Saimon-BsCSE | Backend lead | | |
-| Khaled Mahmud Shihab | @ | Frontend lead | | |
+| Osama Bin Mansur | @obmZZ | Team lead / Scrum master |Breaking down features into clear Jira issues, keeping sprint timelines on track, and coordinating check-ins or PR review | Setting up automated CI pipelines or writing backend integration tests|
+| Md. Saimon Islam | @Saimon-BsCSE | Backend lead |Designing REST APIs, database schemas, and server-side operational and business logic| Dockerizing services or connecting frontend components to live API endpoints|
+| Khaled Mahmud Shihab | @ | Frontend lead |Building responsive UI layouts, component state management, and styling | Writing end-to-end UI tests or debugging backend API error handling|
 
 ## Communication
 
@@ -30,11 +30,11 @@ Every member writes code. Roles say who leads an area, not who does all of it.
 
 A Jira issue is done only when:
 
-- [ ] The acceptance criteria pass
-- [ ] Tests are written or updated and pass (and CI is green, once you add CI in Class 7)
-- [ ] The pull request is reviewed and approved by another member, then merged
-- [ ] Documentation is updated where needed (and `CHANGELOG.md`, from Class 8)
-- [ ] The Jira issue is moved to Done with the pull request linked
+- [✓] The acceptance criteria pass
+- [✓] Tests are written or updated and pass (and CI is green, once you add CI in Class 7)
+- [✓] The pull request is reviewed and approved by another member, then merged
+- [v] Documentation is updated where needed (and `CHANGELOG.md`, from Class 8)
+- [✓] The Jira issue is moved to Done with the pull request linked
 
 ## When things go wrong
 
@@ -56,5 +56,8 @@ Within the course policy:
 Our extra rules: …
 
 ## Signatures
+Osama 
+Saimon
+Shihab
 
 The author opens the pull request that adds this file; every other member approves it before it is merged. Date agreed: …
