@@ -4,8 +4,8 @@ One sentence: who this is for and what problem it solves.
 
 | | |
 |---|---|
-| **Team** | Name (@github-handle), role · Name (@github-handle), role · … |
-| **Jira board** | https://YOUR-SITE.atlassian.net/jira/software/projects/KEY/boards/1 |
+| **Team** | Osama(@obmZZ), role Team lead· Saimon(@Saimon-BsCse), role Backend Developer· … |
+| **Jira board** |  https://teamphoenix1.atlassian.net/jira/software/projects/KAN/boards/2 |
 | **Live app** | Added in Class 8 |
 | **Stack** | Frontend: … · Backend: … · Database: … · External API: … |
 | **Course** | UIU CSE 3422 Software Engineering Laboratory |
